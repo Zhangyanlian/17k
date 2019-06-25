@@ -1,0 +1,25 @@
+
+
+
+
+.top{
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+
+    img{
+        display: inline-block;
+        text-align: center;
+    }
+}
+
+
+
+.am-card-header{
+    padding: 5px 25px;
+    &:nth-child(5){
+        padding-top: 10px;
+    }
+}
+
+
